@@ -8,3 +8,12 @@ h1 {
     color: black;
     text-align: center;
 }
+
+.project img{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid rgb(126, 14, 201);
+    display: block;
+    margin: auto;
+}
