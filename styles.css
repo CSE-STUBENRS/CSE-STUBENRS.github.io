@@ -8,10 +8,7 @@ h1 {
     color: black;
     text-align: center;
 }
-.projects {
-    display:flex;
-    flex-wrap:wrap;
-}
+
 .project {
     width: 30%;
     margin: 10px;
